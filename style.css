@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    color: black;
+    border: 2px dotted none;
+    border-radius: 40px;
+    padding: 5px;
+    background-color: lavender;
+}
+
+body{
+    background-color: white;
+}
+p{
+    font-family:'Raleway', sans-serif;
+    font-weight: bold;
+}
+#party{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
